@@ -4,7 +4,7 @@ Gateway (link) to many ECG classification related information including basic tu
 
 ---
 
-#### Basic info 12 leads ECG :
+### Basic info 12 leads ECG :
 
 * https://en.wikipedia.org/wiki/Electrocardiography
 * https://www.ndsu.edu/pubweb/~grier/eheart.html
@@ -13,13 +13,13 @@ Gateway (link) to many ECG classification related information including basic tu
 
 
 
-#### Paper Review about ECG classification
+### Paper Review about ECG classification
 
 * https://github.com/hsd1503/DL-ECG-Review
 
 
 
-#### Paper produce or implementation ( Source Code ) 
+### Paper produce or implementation ( Source Code ) 
 
 * "A deep convolutional neural network model to classify heartbeats" [(source)](https://www.sciencedirect.com/science/article/abs/pii/S0010482517302810?via%3Dihub)
   * Repo: https://github.com/on-device-ai/ClassifyHeartbeats
@@ -44,7 +44,7 @@ Gateway (link) to many ECG classification related information including basic tu
 
 
 
-#### Public (Free) Famous Dataset for ECG signal waveform and Heart Disease
+### Public (Free) Famous Dataset for ECG signal waveform and Heart Disease
 
 * ECG waveform dataset
   * MITBIH Arrhythmia dataset : 
@@ -62,6 +62,6 @@ Gateway (link) to many ECG classification related information including basic tu
 
 ## Basic tutorial
 
-#### Basic view and load MITBIH dataset
+### Basic view and load MITBIH dataset
 
 * https://github.com/triarts/MITBIH_Arrhythmia_Database_Basic
