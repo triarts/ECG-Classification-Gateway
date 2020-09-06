@@ -34,6 +34,8 @@ Gateway (link) to many ECG classification related information including basic tu
   * Repo: [https://github.com/daimenspace/ECG-arrhythmia-classification-using-a-2-D-convolutional-neural-network.](https://github.com/daimenspace/ECG-arrhythmia-classification-using-a-2-D-convolutional-neural-network.)
 * "Arrhythmia Detection in Electrocardiogram based on Recurrent Neural Network Encoder–Decoder with Lyapunov Exponent" [(source)](https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927)
   * Repo: https://github.com/YeongHyeon/Arrhythmia_Detection_RNN_and_Lyapunov
+* "LSTM-Based ECG Classification for Continuous Monitoring on Personal Wearable Devices" [(source)](https://ieeexplore.ieee.org/abstract/document/8691755)
+  * Code source: http://lis.ee.sharif.edu/pub/2020_jbhi_soh/
 * Additional Source code
   * https://github.com/CarlosGomes98/ECG-Classification
   * https://github.com/Fabrizio1994/ECGClassification
